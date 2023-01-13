@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228744187882",
+    "project_id": "couplechat-6f34c",
+    "storage_bucket": "couplechat-6f34c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228744187882:android:0337cd7d7dd37640b26c93",
+        "android_client_info": {
+          "package_name": "com.deepdragon.flutter_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228744187882-v2ebg9f4li8j7p3a09a6dtj0cfkfhto0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpCgpjB_hYLX-gacqvuCa3s4tcC3EgbNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228744187882-v2ebg9f4li8j7p3a09a6dtj0cfkfhto0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
